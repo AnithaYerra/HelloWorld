@@ -1,5 +1,5 @@
 package starPrograms;
-
+//happend to see how to merge files
 public class Full_palindrome {
 	public static void main(String args[]){
 		int i,j,k;
